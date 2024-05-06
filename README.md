@@ -1,3 +1,6 @@
+Link website :
+http://127.0.0.1:5500/UCP/home.html
+
 Hasil Run Code :
 Tampilan Home dan navbar :
 ![image](https://github.com/andiniseptia/UCP1_20220140053_AndiniSeptiAndri/assets/127277482/9c134f91-0300-4799-90eb-fb316df90c0d)
